@@ -36,11 +36,11 @@
 + TCP 全双工通信
 + 5种IO模型
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210123202154014.png" alt="image-20210123202154014" style="zoom: 33%;" />
+![5种网络模型](https://github.com/MiceXH/JAVA-01/blob/main/Week_02/resources/5%E7%A7%8DIO%E6%A8%A1%E5%9E%8B.png)
 
 ## Netty简介
 
-<img src="../../../Week02-JVM核心技术/week02周日笔记.assets/image-20210124003723820.png" alt="image-20210124003723820" style="zoom: 25%;" />
+![](https://github.com/MiceXH/JAVA-01/blob/main/Week_02/resources/Netty%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 + 1. 异步
   2. 事件驱动
@@ -52,9 +52,9 @@
 
 |                                               |                         HTTP Server                          |                          Web Server                          |                         J2EE Server                          |
 | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| HTTP协议的连接传输HTML、JS、CSS文件、静态资源 | <img src="week02周日笔记.assets/对号 选中.png" style="zoom:10%;" /> | <img src="week02周日笔记.assets/对号 选中.png" style="zoom:10%;" /> | <img src="week02周日笔记.assets/对号 选中.png" style="zoom:10%;" /> |
-|         cookie、session、JSB、Servlet         |                                                              | <img src="week02周日笔记.assets/对号 选中.png" style="zoom:10%;" /> | <img src="week02周日笔记.assets/对号 选中.png" style="zoom:10%;" /> |
-|                  JMS、JBOSS                   |                                                              |                                                              | <img src="week02周日笔记.assets/对号 选中.png" style="zoom:10%;" /> |
+| HTTP协议的连接传输HTML、JS、CSS文件、静态资源 | ![](https://github.com/MiceXH/JAVA-01/blob/main/Week_02/resources/%E5%AF%B9%E5%8F%B7%20%E9%80%89%E4%B8%AD.png) | ![](https://github.com/MiceXH/JAVA-01/blob/main/Week_02/resources/%E5%AF%B9%E5%8F%B7%20%E9%80%89%E4%B8%AD.png) | ![](https://github.com/MiceXH/JAVA-01/blob/main/Week_02/resources/%E5%AF%B9%E5%8F%B7%20%E9%80%89%E4%B8%AD.png) |
+|         cookie、session、JSB、Servlet         |                                                              | ![](https://github.com/MiceXH/JAVA-01/blob/main/Week_02/resources/%E5%AF%B9%E5%8F%B7%20%E9%80%89%E4%B8%AD.png) | ![](https://github.com/MiceXH/JAVA-01/blob/main/Week_02/resources/%E5%AF%B9%E5%8F%B7%20%E9%80%89%E4%B8%AD.png) |
+|                  JMS、JBOSS                   |                                                              |                                                              | ![](https://github.com/MiceXH/JAVA-01/blob/main/Week_02/resources/%E5%AF%B9%E5%8F%B7%20%E9%80%89%E4%B8%AD.png) |
 
 ---
 
